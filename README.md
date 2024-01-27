@@ -12,7 +12,7 @@
 
 ### Demo
 
-https://digitalruby.github.io/ExitPopup/src/index.html
+https://oleteacher.github.io/ExitPopup/src/index.html
 
 ### Usage
 
